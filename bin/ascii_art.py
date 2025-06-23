@@ -29,21 +29,3 @@ STAGES = [
  ]
 
 #I will implement a emoji version
-
-EMOJI_STAGES = [
-"""
- 🎃
- ⚪
- ⚪
-""",
-"""
- 🎃
- ⚪
-""",
-"""
- 🎃
-""",
-"""
- 💧
-"""
-]
