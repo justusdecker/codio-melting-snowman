@@ -1,18 +1,22 @@
-# codio-melting-snowman
-## (c) Masterschool
+# codio Melting Snowman
 
-### Task
-Set up a minimal version of the Snowman Meltdown game with just enough code to start the game loop. In this step, we’ll add functionality to snowman.py that:
-- Greets the user.
-- Selects a random secret word from a provided list.
-- Contains an empty game loop that will later process guesses.
+## What is this project?
 
-### What to Do:
-- <strong>Run the game:</strong> Verify that the greeting appears, a secret word is selected (displayed for now), and that the program prompts for a letter.
-- <strong>Commit Your Progress:</strong> Once you’ve verified this basic functionality, commit your changes with the appropriate message.
+The result of an assignment for [Masterschool](https://learn.masterschool.com/). ![NO IMAGE](https://img.shields.io/badge/Melting%20Snowman-100-4574E0)
 
+A minimalistic hangman like game. In the terminal.
 
+## How to use?
 
-## Solution
+> [!NOTE]
+> Tested on `Python 3.13.3`
 
-(c) Justus Decker 2025
+1. Open snowman.py
+2. guess the words right.
+
+## Masterschool Codio Description
+
+### Melting Snowman
+Create a hangman like game called melting snowman.
+
+Use the states defined in `bin/ascii_art.py`
